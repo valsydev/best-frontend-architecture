@@ -16,8 +16,12 @@ Simple architecture. Use it for any library or framework.
 ## Recommended Technical stack
 * React
 * Typescript
-* Apollo GraphQL Client https://www.apollographql.com/docs/react/ ( faster and simple to use on FE side )
+* Apollo GraphQL Client https://www.apollographql.com/docs/react/ ( faster and simple to use on FE side than Redux and MobX )
 * React Testing Library https://www.npmjs.com/package/@testing-library/react ( much better than enzyme )
+* Ant Design ( or Material UI or any well known UI Toolkit ). Use it as the basis of your own components.
+
+## If you need continue with Microcfrontends
+Guide...
 
 ## Folder structure
 You can check it in folder "examples"
