@@ -20,9 +20,12 @@ Simple architecture. Use it for any library or framework.
 * React Testing Library https://www.npmjs.com/package/@testing-library/react ( much better than enzyme )
 * Ant Design ( or Material UI or any well known UI Toolkit ). Use it as the basis of your own components.
 
-## If you need continue with Microcfrontends
+## If you need continue with Micro-frontends
 Guide...
 
 ## Folder structure
-You can check it in folder "examples"
+* `routes` - each level of folder should be the same as route path. It helps easily to find a place where you need to make a change. 
+* `components` - only independent UI modules that could be reused and combines with another ones.
+* `services` - optional. Only if you have.
+* `utils` - optional. Only if you have common utils that you need in different modules.
 
