@@ -19,6 +19,7 @@ Simple architecture. Use it for any library or framework.
 * Apollo GraphQL Client https://www.apollographql.com/docs/react/ ( faster and simple to use on FE side than Redux and MobX )
 * React Testing Library https://www.npmjs.com/package/@testing-library/react ( much better than enzyme )
 * Ant Design ( or Material UI or any well known UI Toolkit ). Use it as the basis of your own components.
+* Prettier
 
 ## If you need continue with Micro-frontends
 Guide...
