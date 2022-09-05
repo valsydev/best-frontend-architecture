@@ -1,5 +1,9 @@
 # Best Frontend Architecture
-Simple architecture. Use it for any library or framework. 
+Simple architecture. Use it for any library or framework.
+
+## Guide
+1. ```npx create-next-app@latest --typescript```
+2. ```sh install-project.sh```
 
 ## Benefits
 * Easy to start
