@@ -4,7 +4,7 @@ Simple architecture. Use it for any library or framework.
 ## Guide
 1. Run command
 ```
-sh install-project.sh
+bash <(curl -s https://raw.githubusercontent.com/valsydev/best-frontend-architecture/main/install-project.sh)
 ```
 
 ## Benefits
