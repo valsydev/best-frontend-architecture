@@ -2,10 +2,14 @@
 Simple architecture. Use it for any library or framework.
 
 ## Guide
-1. ```
+1. Run command
+```
 npx create-next-app@latest --typescript
 ```
-2. ```sh install-project.sh```
+2. Run command
+```
+sh install-project.sh
+```
 
 ## Benefits
 * Easy to start
